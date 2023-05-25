@@ -1,0 +1,6 @@
+[
+    {
+        "command": "goto_definition_split",
+        "caption": "Goto Definition Split"
+    }
+]

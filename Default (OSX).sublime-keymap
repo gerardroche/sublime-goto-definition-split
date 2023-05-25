@@ -1,0 +1,6 @@
+[
+    {
+        "keys": ["super+f12"],
+        "command": "goto_definition_split"
+    }
+]
