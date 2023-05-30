@@ -1,12 +1,12 @@
 # GotoDefinitionSplit
 
-A Sublime Text plugin to goto definition in a split group instead of tabs.
+A Sublime Text plugin to goto definition in a split group instead of tab.
 
 ## Installation
 
 **Pending availability in Package Control.**
 
-Install plugin via [Package Control](https://packagecontrol.io/packages/GotoDefinitionSplit).
+Install [GotoDefinitionSplit](https://packagecontrol.io/packages/GotoDefinitionSplit) via Package Control.
 
 **Install dependencies.**
 
