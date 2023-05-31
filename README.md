@@ -2,6 +2,8 @@
 
 A Sublime Text plugin to goto definition in a split group instead of tab.
 
+**This plugin overrides Sublime Text's Goto Definition in side-by-side key bindings so the side-by-side is in a group instead of a tab.**
+
 ## Installation
 
 **Pending availability in Package Control.**
