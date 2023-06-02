@@ -1,12 +1,10 @@
-# GotoDefinitionSplit
+# Goto Definition Split
 
 A Sublime Text plugin to goto definition side-by-side in a group instead of tab.
 
 **This plugin overrides Sublime Text's Goto Definition side-by-side key binding so that the side-by-side is in a group instead of a tab.**
 
 ## Installation
-
-**Pending availability in Package Control.**
 
 Install [GotoDefinitionSplit](https://packagecontrol.io/packages/GotoDefinitionSplit) via Package Control.
 
